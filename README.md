@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Lattay/Lattay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a hobbyist programmers passionate about programming languages and open source.
+I have coded for the ❤ of it since 2012 and I am happy to share my experience and ideas with anyone !
 
-Here are some ideas to get you started:
+I am a soon graduated engineer (specialized in computational solid state physics) and to become theoretical chemistry 🧪 PhD student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like working on ephemeral projects for the love of problem solving, but also more durable open source projects.
+
+My interests includes:
+
+* Vim/Neovim plugin
+* programming languages design and experimentation
+* 👾 game development
+
+<a href="https://python.org" ><img src="assets/python/python.png" width="64" alt="python logo"></a>
+<a href="https://call-cc.org" ><img src="assets/chicken/chicken.png" width="64" alt="chicken logo"></a>
+<a href="https://ocaml.org" ><img src="assets/ocaml/ocaml.png" width="64" alt="ocaml logo"></a>
+<a href="https://fr.wikipedia.org/wiki/C_(langage)" ><img src="assets/c/c.png" width="64" alt="c logo"></a>
+<a href="https://en.wikipedia.org/wiki/Fortran#Fortran_2003" ><img src="assets/fortran/fortran.png" width="64" alt="fortran logo"></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" ><img src="assets/bash/bash.png" width="64" alt="bash logo"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" ><img src="assets/javascript/javascript.png" width="64" alt="javascript logo"></a>
+<a href="https://neovim.io/" ><img src="assets/neovim/neovim.png" width="64" alt="neovim logo"></a>
+<a href="https://docker.com" ><img src="assets/docker/docker.png" width="64" alt="docker logo"></a>
+<a href="https://drone.io/" ><img src="assets/drone/drone.png" width="64" alt="drone logo"></a>
+
+<a href=https://github.com/anuraghazra/github-readme-stats>
+<img alt="Theo's Github stats" src="https://github-readme-stats.vercel.app/api?username=lattay&show_icons=true">
+</a>
