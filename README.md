@@ -3,7 +3,7 @@
 I am a hobbyist programmers passionate about programming languages and open source.
 I have coded for the ❤ of it since 2012 and I am happy to share my experience and ideas with anyone !
 
-I am a soon graduated engineer (specialized in computational solid state physics) and to become theoretical chemistry 🧪 PhD student.
+I am a recently graduated engineer (specialized in computational solid state physics) and to become theoretical chemistry 🧪 PhD student.
 
 I like working on ephemeral projects for the love of problem solving, but also more durable open source projects.
 
