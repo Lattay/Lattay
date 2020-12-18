@@ -25,5 +25,5 @@ My interests includes:
 <a href="https://drone.io/" ><img src="assets/drone/drone.png" width="64" alt="drone logo"></a>
 
 <a href=https://github.com/anuraghazra/github-readme-stats>
-<img alt="Theo's Github stats" src="https://github-readme-stats.vercel.app/api?username=lattay&show_icons=true">
+<img alt="Theo's Github stats" src="https://github-readme-stats.vercel.app/api?username=lattay&show_icons=true&include_all_commits=true">
 </a>
