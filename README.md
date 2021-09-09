@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 I am a hobbyist programmers passionate about programming languages and open source.
-I have coded for the ❤ of it since 2012 and I am happy to share my experience and ideas with anyone !
+I am also a graduated generalist engineer and computational chemistry 🧪 PhD student.
 
-I am a recently graduated engineer (specialized in computational solid state physics) and to become theoretical chemistry 🧪 PhD student.
+Since 2012, coding have been one of my main occupation and I am happy to share my experience and ideas !
+
+Most of my new projects will be found on my [Gitlab](https://gitlab.com/Lattay) as I am slowly migrating.
 
 I like working on ephemeral projects for the love of problem solving, but also more durable open source projects.
 
