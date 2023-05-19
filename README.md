@@ -5,7 +5,8 @@ I am also a graduated generalist engineer and computational chemistry 🧪 PhD s
 
 Since 2012, coding have been one of my main occupation and I am happy to share my experience and ideas !
 
-Most of my new projects will be found on my [Gitlab](https://gitlab.com/Lattay) as I am slowly migrating.
+Most of my projects are now living either in [Gitlab](https://gitlab.com/Lattay) or in [Sourcehut](https://git.sr.ht/~lattay).
+Projects here are mostly forks, because I am not very happy with how github is treating open source licenses these days.
 
 I like working on ephemeral projects for the love of problem solving, but also more durable open source projects.
 
