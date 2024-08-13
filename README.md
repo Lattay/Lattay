@@ -23,3 +23,6 @@ Some Python stuff:
 And also:
 - [goto](https://git.sr.ht/~lattay/goto) a multiplatform tool to jump to
   favorite directories
+- [ltls](https://git.sr.ht/~lattay/ltls) a [language server](https://en.wikipedia.org/wiki/Language_Server_Protocol)
+  connecting to [LanguageTool](https://languagetool.org) for spell-checking latex source
+  written in Go
